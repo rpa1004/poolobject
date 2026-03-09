@@ -47,6 +47,7 @@ public class ReusablePoolTest {
         //Creación de instance1
         //Creación de instance2
         //Creación de instance3
+        //Creación de instance4
     	ReusablePool instance1 = ReusablePool.getInstance();
     	assertNotNull(instance1, "La instancia1 no es nula.");
     	
